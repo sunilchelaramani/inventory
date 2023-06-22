@@ -1,5 +1,4 @@
-# inventory
-product inventory management
+# product inventory management
 
 Simple inventory management project built using Go API
 
