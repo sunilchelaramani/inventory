@@ -1,4 +1,4 @@
-module example.com/my-inventory
+module github.com/sunilchelaramani/inventory
 
 go 1.20
 
